@@ -1,0 +1,14 @@
+{
+  "name": "emtmgmt",
+  "version": "1.0.0",
+  "description": "This module shows how to create employee echema using in mongo db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.5.0"
+  }
+}

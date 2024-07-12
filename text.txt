@@ -1,0 +1,10 @@
+pass : MjYzODUtbnNoaXZi
+user : nshivbtech22
+
+mongo version check - mongod --version
+mongo shell open - mongosh
+
+
+...     user: "adminUser",
+...     pwd: "adminPassword",
+
